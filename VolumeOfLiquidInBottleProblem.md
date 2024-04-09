@@ -1,6 +1,6 @@
 # Volume Of Liquid In The Bottle
 
-![image](./images/VolumeOfLiquidInBottleProblem.png)
+![image](/images/VolumeOfLiquidInBottleProblem.png)
 
 I came accross a problon on a youtube channel called [MindYourDecisions](https://www.youtube.com/@MindYourDecisions  "Visit the youtube Channel") for the second problem in the [video](https://youtu.be/ex7ag9U-dzU?si=1UdBRqLvYV7OSOCg&t=36). In it the answer to this solution 525.80 cm<sup>3</sup>.
 
